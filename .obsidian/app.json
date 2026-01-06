@@ -4,5 +4,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
-  "tabSize": 2
+  "tabSize": 2,
+  "autoConvertHtml": true
 }

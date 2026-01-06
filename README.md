@@ -1,15 +1,24 @@
-# workspaceinit
+# 技術筆記
 
-To install dependencies:
+技術與程式碼筆記
 
-```bash
-bun install
-```
+## Scope
 
-To run:
+- AI－LLM｜Agent｜AI-Coding
+- WebServer－Apache｜Nginx
+- Vanilla－HTM｜LCSS｜Javascript
+- Frontend－Next.JS｜ReactJS｜Astro
+- Backend－ElectronJS｜Node.JS｜Bun
+- Bundler－WebPack｜Vite
+- Database－Supabase｜MySQL
+- Network－RouterOS｜TCP/IP
+- OSAdmin－Windows｜Linux
+- Language－TypeScript｜PowerShell（BASH）｜Python｜AutoIT
+- 版控－Git｜GitHub
+- Container－WSL｜Docker
+- Editor－VSCode｜VIM｜Windows Terminal
+- Tools－RegEX
 
-```bash
-bun run index.ts
-```
+## Other
 
-This project was created using `bun init` in bun v1.2.23. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+- 筆記軟體－Notion｜Obsidian
