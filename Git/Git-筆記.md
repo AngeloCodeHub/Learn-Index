@@ -1,3 +1,5 @@
+- 當設定檔 symlink=false，經過git處理後只會回復符號連結本身，要改成true
+  當改成 true 經過git處理要回復需要最高權限
 - [將某 commit 塞進某 Commit（重建基底）](https://gemini.google.com/app/b1a1eac33fabb3a6)
 - 檔案在加入 ignore 之前就 commit 存在的，會 ignore無效，需使用
   ```shellscript
@@ -115,8 +117,14 @@ git clone repo.bundle repo -b main
     # 查看config設定檔 全域repo
     git config --global -l
     git config -l
-    # 處理LF與CRLF
-    git config --global core.autocrlf true
+    
+    # 處理LF與CRLF。注意要加 set，沒加 set會多加一行同樣的 key設定值
+    # 當出現 error: wrong number of arguments, should be 2
+    # 表示 core.autocrlf true 要放在第二個參數（--global之後）
+    git config set --global core.autocrlf true
+    
+    # 查看各設定檔的層級，init 一個 repo會從上層複製過來
+    git config --list --show-origin    
     ```
     
 - 移除分支（參數-d移除已經合併，-D移除未合併）

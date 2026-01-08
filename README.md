@@ -4,7 +4,6 @@
 
 ## Scope
 
-- AI－LLM｜Agent｜AI-Coding
 - WebServer－Apache｜Nginx
 - Vanilla－HTM｜LCSS｜Javascript
 - Frontend－Next.JS｜ReactJS｜Astro
@@ -16,9 +15,5 @@
 - Language－TypeScript｜PowerShell（BASH）｜Python｜AutoIT
 - 版控－Git｜GitHub
 - Container－WSL｜Docker
-- Editor－VSCode｜VIM｜Windows Terminal
+- IDE｜Editor－VSCode｜VIM｜Windows Terminal
 - Tools－RegEX
-
-## Other
-
-- 筆記軟體－Notion｜Obsidian
