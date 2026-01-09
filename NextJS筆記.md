@@ -5,15 +5,6 @@
 ```Powershell
 pnpm create next-app@latest my-app --skip-install
 ```
-  舊專案轉移
-- 分支混亂，nextjs-learn 強制推上
-```Bash
-git push origin HEAD --force
-```
-- 匯入筆記
-```Powershell
-git checkout "hash" ./_Notes ./.vscode ./.gitattributes ./.obsidian ./.gitignore
-```
 - [Window: fetch() method - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window/fetch)
 - 第九章 skeleton 外框閃爍該如何做到?
 - console.log 計時的寫法

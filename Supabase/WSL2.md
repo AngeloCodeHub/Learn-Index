@@ -11,6 +11,8 @@
   安裝 Ubuntu 24.04 發行版並指定安裝位置。
 * `wsl --export Ubuntu-24.04 D:\WSL-VM\Ubuntu-24.04.tar`：
   將 Ubuntu 24.04 發行版導出為 tar 檔案。
+* 安裝 Linux發行版並指定路徑與名稱
+  `wsl --install Ubuntu-24.04 --name Supabase --location D:\WSL-VM\Supabase`
 
 ## 參考
 - [Set up Node.js on WSL 2 | Microsoft Learn](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)

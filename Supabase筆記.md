@@ -1,3 +1,4 @@
+- [Socail Auth問題](https://gemini.google.com/app/86d8bab3beb3074f)
 - supabase的branch
 - 清空資料庫
   ```PowerShell

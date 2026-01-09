@@ -5,7 +5,7 @@
 - [營養師不開菜單後的 Next.js 全端轉職攻略:從專案規劃、畫面設計、資安到 SEO, 挑戰一人 Side](https://ksml.ebook.hyread.com.tw/bookDetail.jsp?id=412459)
 - [深入淺出，完整認識 Next.js 13 ！ :: 2023 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20161853/ironman/6122)
 - [從零開始學習 Next.js :: 2021 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20110504/ironman/4269)
-- [[NextJS React學習資源]]
+- [[NextJS React資源]]
 
 ## [React.JS](https://react.dev/)
 - [React思維進化 : 一次打破常見的觀念誤解, 躍升專業前端開發者](https://webpacx.ksml.edu.tw/bookDetail/1782747)

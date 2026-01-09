@@ -24,6 +24,27 @@
         "type": "FILES",
         "pattern": "ToDo.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "NextJS筆記.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Supabase筆記.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "NextJS生態.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
