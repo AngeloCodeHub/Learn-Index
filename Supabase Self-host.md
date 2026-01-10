@@ -4,7 +4,7 @@
 
 ### 步驟
 
-1. WSL 新增一個ubuntu image
+1. WSL 新增一個ubuntu image－[[WSL2]]
 2. 升級 ubuntu 套件
 3. [使用APT安裝 Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
 4. [安裝 Supabase](https://supabase.com/docs/guides/self-hosting/docker)

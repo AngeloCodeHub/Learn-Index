@@ -70,7 +70,6 @@
 - [「 Nice to meet you , JavaScript . 」- 學習日記 :: 第 12 屆 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20115106/ironman/3459?page=1)
 - [Map - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
 - [Array - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-- [JSON - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
 - [justify-items - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/justify-items)
 
 ### 關鍵字

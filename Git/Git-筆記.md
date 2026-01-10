@@ -1,3 +1,4 @@
+- 子目錄也能放 .gitignore 檔案
 - [First time git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - 當設定檔 symlink=false，經過git處理後只會回復符號連結本身，要改成true
   當改成 true 經過git處理要回復需要最高權限

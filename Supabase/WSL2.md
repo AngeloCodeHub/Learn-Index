@@ -1,4 +1,12 @@
+## 記事
+
+- [Advanced settings configuration in WSL | 設定檔文件](https://learn.microsoft.com/en-us/windows/wsl/wsl-config)
+- （.wslconfig）預設是不存在，可自行新增，官方建議使用 GUI（wsl settings），在開始功能表
+- [Chat－WSL全域設定](https://www.perplexity.ai/search/ru-he-diao-zheng-windows-wsl-h-KhDaVkaqQcWhXkF_JiMfiA)
+- WSL distributions 是僅適用 wsl的linux發行版，與自行安裝的linux不同
+
 ## 常用命令
+
 * `wsl -l -v`：列出所有 WSL 發行版及其版本。
 * `wsl --update`：更新 WSL。
 * `wsl --list --online`：列出可用的 WSL 發行版。
@@ -15,10 +23,12 @@
   `wsl --install Ubuntu-24.04 --name Supabase --location D:\WSL-VM\Supabase`
 
 ## 參考
+
 - [Set up Node.js on WSL 2 | Microsoft Learn](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
 - [Windows Subsystem for Linux Documentation | Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/)
 - [Ubuntu 上安裝 Node.js 最完整指南｜三大方法比較、步驟與常見問題全解析 - オープンソースの力を活用する方法～Ubuntuの世界へようこそ～](https://www.linux.digibeatrix.com/zh/development-environment-setup/ubuntu-nodejs-install-guide/)
 
 ## WSL 不適合 Production
+
 - [ChatGPT](https://chatgpt.com/share/694289aa-4460-8006-a11a-95cf5c14ba05)
 - [Microsoft Copilot: Your AI companion](https://copilot.microsoft.com/chats/qD6ss2PyPkhXJVubpzR2v)

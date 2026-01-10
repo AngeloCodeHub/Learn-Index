@@ -14,13 +14,13 @@
 - [x] 如何更改 db 資料庫帳號密碼
       儀表板：Configuration→Setting
 - [ ] 登入 supabase studio 的帳號密碼在哪裡管理?
+      A：yml
 - [x] [publishable key與 anon key與 service_role key](https://supabase.com/docs/guides/api/api-keys)
       service role key 是不能公開的
 - [ ] [Authentication user欄位是固定的嗎?還是另外創建 table?](https://chatgpt.com/c/6958b4bf-f3f0-8323-9800-954726d5d6cb)
 - [ ] CLI如何備份與復原 auth data
 
 ## references
-- [Json｜Yaml｜Toml｜ini 資料交換格式](https://www.perplexity.ai/search/yamldang-an-shi-zuo-shi-mo-yon-YxLdWWLsQua2CSfSva4I0w)
 - [JWT｜Auth](https://www.perplexity.ai/search/qing-jian-jie-oauth2-yu-jwt-yo-0Mm4ciX7SBm9RA3tRxih9Q)
 - [Next.js與supabase代理模式建置](https://chatgpt.com/c/6940bf9c-ab94-8324-b7db-f3217fbad471)
 - [Supabase 學習路線圖](https://chatgpt.com/c/692f81a5-1d2c-8328-9f97-29fa982d6786)
